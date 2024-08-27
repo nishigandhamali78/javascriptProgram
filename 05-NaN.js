@@ -34,9 +34,9 @@ console.log(`type of n6: ${typeof n7}`);
 var result = +n7;
 console.log(`type of result: ${result}, ${typeof result}`);
 
-Mayuri Hunge 7:51 AM
-sir I perform same thing for undefined variable on my side but it shows me value as 0 and type is number 
-here is my code 
-var n2;
-var res = +n2;
-console.log(`Conversion  is ${res} , type is ${typeof res}`);
+// Mayuri Hunge 7:51 AM
+// sir I perform same thing for undefined variable on my side but it shows me value as 0 and type is number 
+// here is my code 
+// var n2;
+// var res = +n2;
+// console.log(`Conversion  is ${res} , type is ${typeof res}`);
